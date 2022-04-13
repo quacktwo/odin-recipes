@@ -1,0 +1,17 @@
+
+body {
+    background-color: rgb(26, 26, 26);
+    color: white;
+    font-family: "Verdana", "Arial", sans-serif;
+}
+
+
+
+
+.hyperlink:link {
+    color: rgb(140, 140, 247);
+}
+
+.hyperlink:visited {
+    color: rgb(215, 143, 221);
+}
